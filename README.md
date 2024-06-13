@@ -5,9 +5,9 @@ In this comprehensive project, I conducted an Exploratory Data Analysis (EDA) on
 ### 1. Data Cleaning and Preparation
 The first step of the project involved cleaning and preparing the data to ensure accuracy and reliability. This included:
 
-Data Cleaning: Identified and handled missing values, duplicates, and outliers. Applied transformations to normalize data formats, ensuring consistency across all records.
-Data Integration: Combined multiple data sources to create a comprehensive dataset, incorporating sales transactions, product details, and regional information.
-Data Validation: Performed validation checks to verify data integrity, using summary statistics and visualization techniques to confirm data consistency.
+- Data Cleaning: Identified and handled missing values, duplicates, and outliers. Applied transformations to normalize data formats, ensuring consistency across all records.
+- Data Integration: Combined multiple data sources to create a comprehensive dataset, incorporating sales transactions, product details, and regional information.
+- Data Validation: Performed validation checks to verify data integrity, using summary statistics and visualization techniques to confirm data consistency.
 
 ### 2. Summary of Key Metrics
 The next phase involved summarizing key metrics to provide a high-level overview of the dataset.
@@ -16,7 +16,7 @@ The next phase involved summarizing key metrics to provide a high-level overview
 Analyzing sales trends was a crucial part of the EDA to identify patterns and growth opportunities:
 - Seasonal Patterns: Identified seasonal sales patterns by analyzing monthly and quarterly sales data.
 - Peak Periods: Determined peak sales periods by examining daily and weekly sales trends.
-- Growth Opportunities: Identified periods of significant sales growth, providing insights into potential expansion opportunities.
+
 
 ### 4. Payment Methods Analysis
 Analyzing payment methods provided insights into customer preferences and payment trends:
